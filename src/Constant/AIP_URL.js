@@ -1,0 +1,1 @@
+export const API_URL="https://651ae52a340309952f0e03d2.mockapi.io/dhiva/"

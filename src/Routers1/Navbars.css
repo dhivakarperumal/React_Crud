@@ -1,0 +1,21 @@
+.navbar
+{
+  background-color: orange;
+}
+#navs
+{
+
+  position: fixed;
+  z-index: 1;
+}
+
+.h
+{
+  font-weight: bolder;
+  color: white;
+}
+.logo
+{
+    color: white;
+    font-weight: bolder;
+}
